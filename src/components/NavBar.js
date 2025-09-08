@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { Navbar, Nav, Container } from "react-bootstrap";
 import { Projects } from './Projects';
-import flowers from '../assets/img/pinkFlower.svg';
+import flowers from '../assets/img/newFlower.svg';
 import linkedin from '../assets/img/linkedin.svg';
 import mail from '../assets/img/gmail.svg';
 import github from '../assets/img/github.svg';
@@ -53,10 +53,10 @@ export const NavBar = () => {
           </Nav>
           <span className="navbar-text">
             <div className="social-icon">
-                <a href='#'><img src={linkedin} alt="LinkedIn"/></a>  # TODO
-                <a href='#'><img src={github} alt="GitHub"/></a># TODO
-                <a href='#'><img src={gitlab} alt="GitLab"/></a># TODO
-                <a href='#'><img src={mail} alt="Mail"/></a># TODO
+                <a href='#'><img src={linkedin} alt="LinkedIn"/></a>
+                <a href='#'><img src={github} alt="GitHub"/></a>
+                <a href='#'><img src={gitlab} alt="GitLab"/></a>
+                <a href='#'><img src={mail} alt="Mail"/></a>
             </div>
             <button className="contact" onClick={()=>console.log("contact")}><span>Get in touch!</span></button>
           </span>
