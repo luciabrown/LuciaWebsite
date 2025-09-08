@@ -3,7 +3,7 @@ import flowers from '../assets/img/newFlower.svg';
 import linkedin from "../assets/img/linkedin.svg";
 import github from "../assets/img/github.svg";
 import gitlab from "../assets/img/gitlab.svg";
-import gmail from "../assets/img/gmail.svg";
+import mail from "../assets/img/gmail.svg";
 
 export const Footer = () => {
   return (
