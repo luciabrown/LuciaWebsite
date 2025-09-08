@@ -14,6 +14,11 @@
 	src: url('./assets/font/CentraNo2-Book.ttf');
 	font-weight: 400;
 }
+@font-face {
+	font-family: Coolvetica;
+	src: url('./assets/font/Coolvetica.ttf');
+	font-weight: 400;
+}
 
 /************ Default Css ************/
 * {
@@ -33,7 +38,7 @@ body {
   position: relative;
   background-color: #121212 !important;
   color: #fff !important;
-  font-family: 'Centra', sans-serif !important;
+  font-family: 'Coolvetica', sans-serif !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
