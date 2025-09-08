@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { Navbar, Nav, Container } from "react-bootstrap";
 import { Projects } from './Projects';
-import logo from '../assets/img/logo.svg';
+import flowers from '../assets/img/pinkFlower.svg';
 import linkedin from '../assets/img/linkedin.svg';
 import mail from '../assets/img/gmail.svg';
 import github from '../assets/img/github.svg';
@@ -38,7 +38,7 @@ export const NavBar = () => {
       <Container>
         
         <Navbar.Brand href="#home">
-            <img src={logo} alt = "Logo"/>
+            <img src={flowers} alt = "Logo"/>
         </Navbar.Brand>
 
         <Navbar.Toggle aria-controls="basic-navbar-nav">
