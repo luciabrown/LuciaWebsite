@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b2d39d9f.css",
+    "main.js": "/static/js/main.47d0a350.js",
+    "static/js/453.3c68b898.chunk.js": "/static/js/453.3c68b898.chunk.js",
+    "static/media/keySentinel.png": "/static/media/keySentinel.7adbb52f59a7e78a40e9.png",
+    "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/pinkFlower.svg": "/static/media/pinkFlower.b51c1c0d2b41b64143c40e98fef88dd0.svg",
+    "static/media/Coolvetica.ttf": "/static/media/Coolvetica.42f59941755a61fca2d0.ttf",
+    "static/media/contact.svg": "/static/media/contact.8d510e1909d3da3108b4b480a20e41df.svg",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/background.png": "/static/media/background.a85aa0c965693077c670.png",
+    "static/media/codecraft.jpg": "/static/media/codecraft.eddd621a95859dbddc71.jpg",
+    "static/media/spotify4vsc.png": "/static/media/spotify4vsc.d2b9574842081dcbc192.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/github.svg": "/static/media/github.5531be85d7a8d6f333e5c7136944a022.svg",
+    "static/media/gitlab.svg": "/static/media/gitlab.34d9a91a96f6991005a0e833e25eecdf.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.c341cc1c307221b0fe42599c619ceeaf.svg",
+    "index.html": "/index.html",
+    "static/media/gmail.svg": "/static/media/gmail.87cc67187afd3477d6c29ef768e48834.svg",
+    "main.b2d39d9f.css.map": "/static/css/main.b2d39d9f.css.map",
+    "main.47d0a350.js.map": "/static/js/main.47d0a350.js.map",
+    "453.3c68b898.chunk.js.map": "/static/js/453.3c68b898.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2d39d9f.css",
+    "static/js/main.47d0a350.js"
+  ]
+}
