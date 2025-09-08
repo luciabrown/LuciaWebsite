@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/LuciaWebsite/static/css/main.99b55d08.css",
-    "main.js": "/LuciaWebsite/static/js/main.212fb56c.js",
+    "main.js": "/LuciaWebsite/static/js/main.ad6187b5.js",
     "static/js/453.3c68b898.chunk.js": "/LuciaWebsite/static/js/453.3c68b898.chunk.js",
     "static/media/keySentinel.png": "/LuciaWebsite/static/media/keySentinel.7adbb52f59a7e78a40e9.png",
+    "static/media/me.svg": "/LuciaWebsite/static/media/me.5a6b9dc6e10f0bc7e31d07f757da8764.svg",
     "static/media/color-sharp2.png": "/LuciaWebsite/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/pinkFlower.svg": "/LuciaWebsite/static/media/pinkFlower.ea78b0bd4ee80f6e4fdd0b5a8199258d.svg",
     "static/media/Coolvetica.ttf": "/LuciaWebsite/static/media/Coolvetica.42f59941755a61fca2d0.ttf",
@@ -21,11 +22,11 @@
     "index.html": "/LuciaWebsite/index.html",
     "static/media/gmail.svg": "/LuciaWebsite/static/media/gmail.504a4e36a382ca0995e8f48358bf7db9.svg",
     "main.99b55d08.css.map": "/LuciaWebsite/static/css/main.99b55d08.css.map",
-    "main.212fb56c.js.map": "/LuciaWebsite/static/js/main.212fb56c.js.map",
+    "main.ad6187b5.js.map": "/LuciaWebsite/static/js/main.ad6187b5.js.map",
     "453.3c68b898.chunk.js.map": "/LuciaWebsite/static/js/453.3c68b898.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99b55d08.css",
-    "static/js/main.212fb56c.js"
+    "static/js/main.ad6187b5.js"
   ]
 }
