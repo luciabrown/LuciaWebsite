@@ -11,18 +11,18 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "Default Text 1",
-      description: "Default Text 1",
+      title: "CodeCraft",
+      description: "Revolutionising Software Engingeering with AI",
       imgUrl: codecraft,
     },
     {
-      title: "Default Text 2",
-      description: "Default Text 2",
+      title: "AI Agents For Code Review & Security",
+      description: "Using Open Source Models",
       imgUrl: keysentinel,
     },
     {
-      title: "Default Text 3",
-      description: "Default Text 3",
+      title: "Spotify4VSCode",
+      description: "A VSCode Extension to see & control Spotify activity",
       imgUrl: spotify4vsc,
     },
   ];
