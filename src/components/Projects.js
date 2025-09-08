@@ -1,6 +1,6 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
-import codecraft from "../assets/img/codecraft.png";
+import codecraft from "../assets/img/codecraft.jpg";
 import keysentinel from "../assets/img/keySentinel.png";
 import spotify4vsc from "../assets/img/spotify4vsc.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
@@ -10,21 +10,6 @@ import TrackVisibility from 'react-on-screen';
 export const Projects = () => {
 
   const projects = [
-    {
-      title: "Default Text 1",
-      description: "Default Text 1",
-      imgUrl: codecraft,
-    },
-    {
-      title: "Default Text 2",
-      description: "Default Text 2",
-      imgUrl: keysentinel,
-    },
-    {
-      title: "Default Text 3",
-      description: "Default Text 3",
-      imgUrl: spotify4vsc,
-    },
     {
       title: "Default Text 1",
       description: "Default Text 1",

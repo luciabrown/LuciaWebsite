@@ -1,8 +1,9 @@
 import { useState, useEffect } from "react";
 import { Navbar, Nav, Container } from "react-bootstrap";
+import { Projects } from './Projects';
 import logo from '../assets/img/logo.svg';
 import linkedin from '../assets/img/linkedin.svg';
-import mail from '../assets/img/mail.svg';
+import mail from '../assets/img/gmail.svg';
 import github from '../assets/img/github.svg';
 import gitlab from '../assets/img/gitlab.svg';
 import { HashLink } from 'react-router-hash-link';
