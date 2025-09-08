@@ -156,7 +156,7 @@ span.navbar-text {
 	filter: brightness(0) saturate(100%) invert(0%) sepia(7%) saturate(98%) hue-rotate(346deg) brightness(95%) contrast(86%);
 }
 .navbar-text button {
-  font-weight: 700;
+  font-weight: 500;
   color: #fff;
   border: 1px solid #ff6e6e;
   padding: 18px 34px;
