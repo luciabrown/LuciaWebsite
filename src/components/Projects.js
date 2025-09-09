@@ -1,5 +1,5 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
-import { ProjectCard } from "./ProjectCard";
+import { Card } from "./Card";
 import { Goals } from "./Goals";
 import { Experience } from "./Experience";
 import codecraft from "../assets/img/codecraft.jpg";
@@ -55,7 +55,7 @@ export const Projects = () => {
                           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                           <Row>
                           {projects.map((project, index) => (
-                            <ProjectCard
+                            <Card
                               key={index}
                               {...project}
                             />
