@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/LuciaWebsite/static/css/main.ca9aae7a.css",
-    "main.js": "/LuciaWebsite/static/js/main.39490421.js",
+    "main.css": "/LuciaWebsite/static/css/main.8a8648d5.css",
+    "main.js": "/LuciaWebsite/static/js/main.146979b9.js",
     "static/js/453.3c68b898.chunk.js": "/LuciaWebsite/static/js/453.3c68b898.chunk.js",
     "static/media/keySentinel.png": "/LuciaWebsite/static/media/keySentinel.7adbb52f59a7e78a40e9.png",
     "static/media/me.svg": "/LuciaWebsite/static/media/me.5a6b9dc6e10f0bc7e31d07f757da8764.svg",
-    "static/media/color-sharp2.png": "/LuciaWebsite/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/Coolvetica.ttf": "/LuciaWebsite/static/media/Coolvetica.42f59941755a61fca2d0.ttf",
     "static/media/newFlower.svg": "/LuciaWebsite/static/media/newFlower.db483f88b018966e3e9c1763761b82c2.svg",
     "static/media/CentraNo2-Bold.ttf": "/LuciaWebsite/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
@@ -19,12 +18,12 @@
     "static/media/linkedin.svg": "/LuciaWebsite/static/media/linkedin.01867e18e471fa792bc664af26c403ea.svg",
     "index.html": "/LuciaWebsite/index.html",
     "static/media/gmail.svg": "/LuciaWebsite/static/media/gmail.504a4e36a382ca0995e8f48358bf7db9.svg",
-    "main.ca9aae7a.css.map": "/LuciaWebsite/static/css/main.ca9aae7a.css.map",
-    "main.39490421.js.map": "/LuciaWebsite/static/js/main.39490421.js.map",
+    "main.8a8648d5.css.map": "/LuciaWebsite/static/css/main.8a8648d5.css.map",
+    "main.146979b9.js.map": "/LuciaWebsite/static/js/main.146979b9.js.map",
     "453.3c68b898.chunk.js.map": "/LuciaWebsite/static/js/453.3c68b898.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca9aae7a.css",
-    "static/js/main.39490421.js"
+    "static/css/main.8a8648d5.css",
+    "static/js/main.146979b9.js"
   ]
 }
