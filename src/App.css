@@ -370,9 +370,20 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 .proj-imgbx {
   position: relative;
-  border-radius: 30px;
+  border-radius: 30px;    /* rounded corners */
   overflow: hidden;
-  margin-bottom: 24px;
+  margin: 15px;           /* spacing between cards */
+  width: 300px;           /* fixed width */
+  height: 300px;          /* fixed height to make square */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff; 
+}
+.proj-imgbx img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;     /* cover the square without distortion */
 }
 .proj-imgbx::before {
   content: "";
@@ -382,6 +393,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   width: 100%;
   height: 0;
   transition: 0.4s ease-in-out;
+  top: 0;
+  left: 0;
+  border-radius: 30px; 
 }
 .proj-imgbx:hover::before {
   height: 100%;
