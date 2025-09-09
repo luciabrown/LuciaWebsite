@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/LuciaWebsite/static/css/main.688d4d3c.css",
-    "main.js": "/LuciaWebsite/static/js/main.538bf781.js",
+    "main.js": "/LuciaWebsite/static/js/main.65299185.js",
     "static/js/453.a42d1366.chunk.js": "/LuciaWebsite/static/js/453.a42d1366.chunk.js",
     "static/media/keySentinel.png": "/LuciaWebsite/static/media/keySentinel.7adbb52f59a7e78a40e9.png",
     "static/media/mint.png": "/LuciaWebsite/static/media/mint.0eb51092757de32dcb3f.png",
@@ -10,7 +10,7 @@
     "static/media/Coolvetica.ttf": "/LuciaWebsite/static/media/Coolvetica.42f59941755a61fca2d0.ttf",
     "static/media/go_square.png": "/LuciaWebsite/static/media/go_square.2475ddec088af04561a2.png",
     "static/media/python.png": "/LuciaWebsite/static/media/python.52d7bb207f9868b90e39.png",
-    "static/media/newFlower.svg": "/LuciaWebsite/static/media/newFlower.db483f88b018966e3e9c1763761b82c2.svg",
+    "static/media/newFlower.svg": "/LuciaWebsite/static/media/newFlower.996bc5ec0b368f1a69ba14a20fdb6502.svg",
     "static/media/CentraNo2-Bold.ttf": "/LuciaWebsite/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/LuciaWebsite/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/LuciaWebsite/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
@@ -24,17 +24,17 @@
     "static/media/spotify4vsc.png": "/LuciaWebsite/static/media/spotify4vsc.d2b9574842081dcbc192.png",
     "static/media/flask.png": "/LuciaWebsite/static/media/flask.e57550cc387b987d834b.png",
     "static/media/dockerlogo.png": "/LuciaWebsite/static/media/dockerlogo.1b8174e1fcf00ae92c00.png",
-    "static/media/github.svg": "/LuciaWebsite/static/media/github.5531be85d7a8d6f333e5c7136944a022.svg",
-    "static/media/gitlab.svg": "/LuciaWebsite/static/media/gitlab.01747e5536218f82cd91c5fcb9684736.svg",
-    "static/media/linkedin.svg": "/LuciaWebsite/static/media/linkedin.01867e18e471fa792bc664af26c403ea.svg",
+    "static/media/github.svg": "/LuciaWebsite/static/media/github.077a3fdbee9cbcbfd1a2d29bb167cece.svg",
+    "static/media/gitlab.svg": "/LuciaWebsite/static/media/gitlab.34d9a91a96f6991005a0e833e25eecdf.svg",
+    "static/media/linkedin.svg": "/LuciaWebsite/static/media/linkedin.c341cc1c307221b0fe42599c619ceeaf.svg",
     "index.html": "/LuciaWebsite/index.html",
-    "static/media/gmail.svg": "/LuciaWebsite/static/media/gmail.504a4e36a382ca0995e8f48358bf7db9.svg",
+    "static/media/gmail.svg": "/LuciaWebsite/static/media/gmail.87cc67187afd3477d6c29ef768e48834.svg",
     "main.688d4d3c.css.map": "/LuciaWebsite/static/css/main.688d4d3c.css.map",
-    "main.538bf781.js.map": "/LuciaWebsite/static/js/main.538bf781.js.map",
+    "main.65299185.js.map": "/LuciaWebsite/static/js/main.65299185.js.map",
     "453.a42d1366.chunk.js.map": "/LuciaWebsite/static/js/453.a42d1366.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.688d4d3c.css",
-    "static/js/main.538bf781.js"
+    "static/js/main.65299185.js"
   ]
 }
