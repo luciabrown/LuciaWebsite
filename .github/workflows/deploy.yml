@@ -3,7 +3,7 @@ name: Deploy React App to GitHub Pages
 on:
   push:
     branches:
-      - 13-cicd
+      - main
 
 jobs:
   build-and-deploy:
