@@ -16,9 +16,10 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### `npm run build`
-Builds the app for production to the `build` folder\
+Builds the app for production to the `build` folder.
 
 ### `npm run deploy`
 Deploys the site to the url on [https://luciabrown.github.io/LuciaWebsite/](https://luciabrown.github.io/LuciaWebsite/).
+### _or_ auto-deploys when there is a push made to main.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
