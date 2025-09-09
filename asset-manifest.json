@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/LuciaWebsite/static/css/main.445d8d47.css",
-    "main.js": "/LuciaWebsite/static/js/main.58b3f0d1.js",
+    "main.css": "/LuciaWebsite/static/css/main.ca9aae7a.css",
+    "main.js": "/LuciaWebsite/static/js/main.39490421.js",
     "static/js/453.3c68b898.chunk.js": "/LuciaWebsite/static/js/453.3c68b898.chunk.js",
     "static/media/keySentinel.png": "/LuciaWebsite/static/media/keySentinel.7adbb52f59a7e78a40e9.png",
     "static/media/me.svg": "/LuciaWebsite/static/media/me.5a6b9dc6e10f0bc7e31d07f757da8764.svg",
     "static/media/color-sharp2.png": "/LuciaWebsite/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/Coolvetica.ttf": "/LuciaWebsite/static/media/Coolvetica.42f59941755a61fca2d0.ttf",
-    "static/media/contact.svg": "/LuciaWebsite/static/media/contact.89577a2f455d321c82f5a72595292017.svg",
     "static/media/newFlower.svg": "/LuciaWebsite/static/media/newFlower.db483f88b018966e3e9c1763761b82c2.svg",
     "static/media/CentraNo2-Bold.ttf": "/LuciaWebsite/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/LuciaWebsite/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
@@ -15,18 +14,17 @@
     "static/media/background.png": "/LuciaWebsite/static/media/background.a85aa0c965693077c670.png",
     "static/media/codecraft.jpg": "/LuciaWebsite/static/media/codecraft.eddd621a95859dbddc71.jpg",
     "static/media/spotify4vsc.png": "/LuciaWebsite/static/media/spotify4vsc.d2b9574842081dcbc192.png",
-    "static/media/logo.svg": "/LuciaWebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/github.svg": "/LuciaWebsite/static/media/github.5531be85d7a8d6f333e5c7136944a022.svg",
     "static/media/gitlab.svg": "/LuciaWebsite/static/media/gitlab.01747e5536218f82cd91c5fcb9684736.svg",
     "static/media/linkedin.svg": "/LuciaWebsite/static/media/linkedin.01867e18e471fa792bc664af26c403ea.svg",
     "index.html": "/LuciaWebsite/index.html",
     "static/media/gmail.svg": "/LuciaWebsite/static/media/gmail.504a4e36a382ca0995e8f48358bf7db9.svg",
-    "main.445d8d47.css.map": "/LuciaWebsite/static/css/main.445d8d47.css.map",
-    "main.58b3f0d1.js.map": "/LuciaWebsite/static/js/main.58b3f0d1.js.map",
+    "main.ca9aae7a.css.map": "/LuciaWebsite/static/css/main.ca9aae7a.css.map",
+    "main.39490421.js.map": "/LuciaWebsite/static/js/main.39490421.js.map",
     "453.3c68b898.chunk.js.map": "/LuciaWebsite/static/js/453.3c68b898.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.445d8d47.css",
-    "static/js/main.58b3f0d1.js"
+    "static/css/main.ca9aae7a.css",
+    "static/js/main.39490421.js"
   ]
 }
