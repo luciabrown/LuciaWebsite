@@ -89,7 +89,7 @@ export const Projects = () => {
                       {/* Projects tab */}
                       <Tab.Pane eventKey="first">
                         <h2>Projects</h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                        <p>Here is a list of some of my most recent projects that I'm most proud of! ✨</p>
                         <Row>
                           {projects.map((project, index) => (
                             <Card key={index} {...project} />
