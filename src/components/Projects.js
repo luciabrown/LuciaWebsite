@@ -13,6 +13,7 @@ import ollama from "../assets/img/ollama.png";
 import python from "../assets/img/python.png";
 import sql from "../assets/img/sql.png";
 import watsonx from "../assets/img/watsonx.png";
+import c from "../assets/img/c.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
@@ -131,6 +132,9 @@ export const Projects = () => {
                           </Col>
                           <Col xs={6} md={3}>
                             <img src={watsonx} alt="WatsonX" className="experience-logo" />
+                          </Col>
+                          <Col xs={6} md={3}>
+                            <img src={c} alt="c" className="experience-logo" />
                           </Col>
                         </Row>
                       </Tab.Pane>
