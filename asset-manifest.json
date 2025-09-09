@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/LuciaWebsite/static/css/main.688d4d3c.css",
-    "main.js": "/LuciaWebsite/static/js/main.65299185.js",
+    "main.js": "/LuciaWebsite/static/js/main.f960b9d8.js",
     "static/js/453.a42d1366.chunk.js": "/LuciaWebsite/static/js/453.a42d1366.chunk.js",
     "static/media/keySentinel.png": "/LuciaWebsite/static/media/keySentinel.7adbb52f59a7e78a40e9.png",
     "static/media/mint.png": "/LuciaWebsite/static/media/mint.0eb51092757de32dcb3f.png",
@@ -30,11 +30,11 @@
     "index.html": "/LuciaWebsite/index.html",
     "static/media/gmail.svg": "/LuciaWebsite/static/media/gmail.87cc67187afd3477d6c29ef768e48834.svg",
     "main.688d4d3c.css.map": "/LuciaWebsite/static/css/main.688d4d3c.css.map",
-    "main.65299185.js.map": "/LuciaWebsite/static/js/main.65299185.js.map",
+    "main.f960b9d8.js.map": "/LuciaWebsite/static/js/main.f960b9d8.js.map",
     "453.a42d1366.chunk.js.map": "/LuciaWebsite/static/js/453.a42d1366.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.688d4d3c.css",
-    "static/js/main.65299185.js"
+    "static/js/main.f960b9d8.js"
   ]
 }
