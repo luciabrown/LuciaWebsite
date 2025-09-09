@@ -6,6 +6,13 @@ import spotify4vsc from "../assets/img/spotify4vsc.png";
 import mint from "../assets/img/mint.png";
 import react from "../assets/img/react_square.png";
 import golang from "../assets/img/go_square.png";
+import dockerlogo from "../assets/img/dockerlogo.png";
+import flask from "../assets/img/flask.png";
+import javalogo from "../assets/img/javalogo.png";
+import ollama from "../assets/img/ollama.png";
+import python from "../assets/img/python.png";
+import sql from "../assets/img/sql.png";
+import watsonx from "../assets/img/watsonx.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
@@ -103,6 +110,29 @@ export const Projects = () => {
                       <Tab.Pane eventKey="third">
                         <h2>Experience</h2>
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                        <Row className="justify-content-center">
+                          <Col xs={6} md={3}>
+                            <img src={dockerlogo} alt="Docker" className="experience-logo" />
+                          </Col>
+                          <Col xs={6} md={3}>
+                            <img src={flask} alt="Flask" className="experience-logo" />
+                          </Col>
+                          <Col xs={6} md={3}>
+                            <img src={javalogo} alt="Java" className="experience-logo" />
+                          </Col>
+                          <Col xs={6} md={3}>
+                            <img src={ollama} alt="Ollama" className="experience-logo" />
+                          </Col>
+                          <Col xs={6} md={3}>
+                            <img src={python} alt="Python" className="experience-logo" />
+                          </Col>
+                          <Col xs={6} md={3}>
+                            <img src={sql} alt="SQL" className="experience-logo" />
+                          </Col>
+                          <Col xs={6} md={3}>
+                            <img src={watsonx} alt="WatsonX" className="experience-logo" />
+                          </Col>
+                        </Row>
                       </Tab.Pane>
                     </Tab.Content>
                   </Tab.Container>
