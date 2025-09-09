@@ -23,22 +23,7 @@ export const Card = ({ title, description, imgUrl, details }) => {
 
       {/* Floating Modal Content*/}
       {expanded && (
-        <div
-          className="proj-modal-content"
-          style={{
-            position: "fixed",        // stays on top
-            top: "50%",               // center vertically
-            left: "50%",              // center horizontally
-            transform: "translate(-50%, -50%)",
-            backgroundColor: "#fff",
-            borderRadius: "20px",
-            width: "80%",
-            maxWidth: "600px",
-            padding: "30px",
-            zIndex: 9999,             // ensures it overlays the cards
-            boxShadow: "0 4px 20px rgba(0,0,0,0.3)", // optional for depth
-          }}
-        >
+        <div className="proj-modal-content">
           {/* Close the popup */}
           <h2>{title}</h2>
           <p>{details}</p>
