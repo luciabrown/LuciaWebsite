@@ -110,8 +110,11 @@ export const Projects = () => {
                       {/* Experience tab */}
                       <Tab.Pane eventKey="third">
                         <h2>Experience</h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                        <Row className="justify-content-center">
+                        <p>My main areas of experience come from my university work and my employment as a data analyst.</p>
+                        <p>🛠️ I have strong project management skills and had the opportunity to lead my Trinity College Software Engineering group early this year (psst.. see the Projects tab).</p>
+                        <p>💼 My analytical skills include proficiency in Microsoft Excel and PowerPoint, IBM Maximo, Oracle SQL Developer and with the end-to-end project lifecycle.</p>
+                        <p>💧 As a data analyst, I have worked on two large projects with Nucleo. An extension of an existing work order, contracts and payment framework. And a data cleanse project for client Uisce Éireann.</p>
+                          <Row className="justify-content-center">
                           <Col xs={6} md={3}>
                             <img src={dockerlogo} alt="Docker" className="experience-logo" />
                           </Col>
