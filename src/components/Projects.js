@@ -4,8 +4,8 @@ import codecraft from "../assets/img/codecraft.jpg";
 import keysentinel from "../assets/img/keySentinel.png";
 import spotify4vsc from "../assets/img/spotify4vsc.png";
 import mint from "../assets/img/mint.png";
-import react from "../assets/img/react.png";
-import golang from "../assets/img/go.png";
+import react from "../assets/img/react_square.png";
+import golang from "../assets/img/go_square.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
